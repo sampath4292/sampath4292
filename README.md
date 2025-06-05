@@ -16,7 +16,7 @@
   - ✅ Solved **300+ problems** on LeetCode | [@sampath4292](https://leetcode.com/sampath4292)
 - 🌱 Currently learning:
   - React.js, Node.js, SQL , Mongodb
-- 📫 Reach me at: `sampathsreeram4292@gmail.com`
+- 📫 Reach me at: `sampathsriram4292@gmail.com`
 
 ---
 
