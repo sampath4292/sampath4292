@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sampath Sreeram</h1>
-<h3 align="center">B.Tech CSE Student | Full Stack Developer | LeetCoder | ML Enthusiast</h3>
+<h3 align="center">B.Tech CSE Student | Mern Stack Developer | LeetCoder </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sampath4292&label=Profile%20views&color=0e75b6&style=flat" alt="sampath4292" />
@@ -9,21 +9,20 @@
 
 ### 👨‍🎓 About Me
 - 🎓 3rd Year B.Tech Computer Science Student at **Vignan's Institute of Information Technology**  
-- 💡 Passionate about **Web Development**, **Machine Learning**, and **Backend Engineering**
-- 🔭 Currently building: **A Disease Prediction System** & ⚡ **Electricity Usage Alert System**
+- 💡 Passionate about **Web Development**, **Leetcoder**
+- 🔭 Currently building: **A Disease Prediction System** & ⚡ **DSA TRACKER**
 - 🏅 Achievements:
-  - 🏆 **LeetCode 100 Days Badge 2024** – Top 4.2% of global coders
-  - ✅ Solved **160+ problems** on LeetCode | [@sampath4292](https://leetcode.com/sampath4292)
+  - 🏆 **LeetCode 365 Days Badge 2024** – Top 4.2% of global coders
+  - ✅ Solved **300+ problems** on LeetCode | [@sampath4292](https://leetcode.com/sampath4292)
 - 🌱 Currently learning:
-  - React.js, Node.js, SQL Optimization
-  - Concurrency Control & Crash Recovery in DBMS
+  - React.js, Node.js, SQL , Mongodb
 - 📫 Reach me at: `sampathsreeram4292@gmail.com`
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />&nspb;&nspb;&nspb;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
@@ -39,17 +38,15 @@
 - 🔬 **Disease Prediction Website**  
   A smart system that predicts potential diseases based on symptoms, blood group, and family history.
 
-- ⚡ **Electricity Usage Alert System**  
-  Notifies users with live messages when usage exceeds certain limits (e.g., 0–100, 101–150 units) to promote efficient usage.
+- ⚡ **DSA Tracker**  
+  To code well here there are problems under their topics anyone can practice the problems
 
-- 📊 **Flipkart Sentiment Analyzer**  
-  ML-powered tool that determines customer sentiment from product reviews.
 
 ---
 
 ### 🌐 Let's Connect!
 <p align="left">
-  <a href="mailto:sampathsreeram4292@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:sampathsriram4292@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/sampath4292/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/sampathsreeram/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -66,13 +63,6 @@
 ---
 
 ### 🔍 Currently Exploring
-- Backend Internships (e.g., **HENNGE Global Internship**, etc.)
-- Virtual internships in Cloud, Cybersecurity, AI, and Data Analytics
-- Campus Ambassador roles (**AlgoZenith**, **GeeksforGeeks Campus Mantri**)
+- Mernstack Internships (e.g., **HENNGE Global Internship**, etc.)
+- Virtual internships in AI,  Data Analytics , Data visualization
 
----
-
-### 🎤 Fun Fact
-> I'm the go-to host for college events and have even stepped up as a class representative when needed.
-
----
