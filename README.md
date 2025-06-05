@@ -1,16 +1,78 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sampath Sreeram</h1>
+<h3 align="center">B.Tech CSE Student | Full Stack Developer | LeetCoder | ML Enthusiast</h3>
 
-<!--
-**sampath4292/sampath4292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sampath4292&label=Profile%20views&color=0e75b6&style=flat" alt="sampath4292" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍🎓 About Me
+- 🎓 3rd Year B.Tech Computer Science Student at **Vignan's Institute of Information Technology**  
+- 💡 Passionate about **Web Development**, **Machine Learning**, and **Backend Engineering**
+- 🔭 Currently building: **A Disease Prediction System** & ⚡ **Electricity Usage Alert System**
+- 🏅 Achievements:
+  - 🏆 **LeetCode 100 Days Badge 2024** – Top 4.2% of global coders
+  - ✅ Solved **160+ problems** on LeetCode | [@sampath4292](https://leetcode.com/sampath4292)
+- 🌱 Currently learning:
+  - React.js, Node.js, SQL Optimization
+  - Concurrency Control & Crash Recovery in DBMS
+- 📫 Reach me at: `sampathsreeram4292@gmail.com`
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
+
+---
+
+### 📌 Featured Projects
+- 🔬 **Disease Prediction Website**  
+  A smart system that predicts potential diseases based on symptoms, blood group, and family history.
+
+- ⚡ **Electricity Usage Alert System**  
+  Notifies users with live messages when usage exceeds certain limits (e.g., 0–100, 101–150 units) to promote efficient usage.
+
+- 📊 **Flipkart Sentiment Analyzer**  
+  ML-powered tool that determines customer sentiment from product reviews.
+
+---
+
+### 🌐 Let's Connect!
+<p align="left">
+  <a href="mailto:sampathsreeram4292@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/sampath4292/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/sampathsreeram/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sampath4292&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sampath4292&theme=radical" width="47%" />
+</p>
+
+---
+
+### 🔍 Currently Exploring
+- Backend Internships (e.g., **HENNGE Global Internship**, etc.)
+- Virtual internships in Cloud, Cybersecurity, AI, and Data Analytics
+- Campus Ambassador roles (**AlgoZenith**, **GeeksforGeeks Campus Mantri**)
+
+---
+
+### 🎤 Fun Fact
+> I'm the go-to host for college events and have even stepped up as a class representative when needed.
+
+---
