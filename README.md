@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sampath Sreeram</h1>
-<h3 align="center">B.Tech CSE Student | Mern Stack Developer | LeetCoder </h3>
+<h3 align="center">
+  <img src="https://img.shields.io/badge/B.Tech_CSE_Student-darkgreen?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN_Stack_Developer-darkgreen?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCoder-darkgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sampath4292&label=Profile%20views&color=0e75b6&style=flat" alt="sampath4292" />
