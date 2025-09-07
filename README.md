@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍🎓 About Me
-- 🎓 3rd Year B.Tech Computer Science Student at **Vignan's Institute of Information Technology**  
+- 🎓 4th Year B.Tech Computer Science Student at **Vignan's Institute of Information Technology**  
 - 💡 Passionate about **Web Development**, **Leetcoder**
 - 🔭 Currently building: **A Disease Prediction System** & ⚡ **DSA TRACKER**
 - 🏅 Achievements:
