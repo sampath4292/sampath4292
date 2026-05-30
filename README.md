@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sampath Sreeram</h1>
+<h1 align="center">Hi 👋, I'm Sreeram Sampath Kumar</h1>
 <h3 align="center">
-  <img src="https://img.shields.io/badge/B.Tech_CSE_Student-darkgreen?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/MERN_Stack_Developer-darkgreen?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/LeetCoder-darkgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software_Engineer-darkgreen?style=for-the-badge&logo=computercare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack_Developer-darkgreen?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCoder_400+-darkgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
 </h3>
 
 <p align="center">
@@ -11,40 +11,37 @@
 
 ---
 
-### 👨‍🎓 About Me
-- 🎓 4th Year B.Tech Computer Science Student at **Vignan's Institute of Information Technology**  
-- 💡 Passionate about **Web Development**, **Leetcoder**
-- 🔭 Currently building: **A Disease Prediction System** & ⚡ **DSA TRACKER**
-- 🏅 Achievements:
-  - 🏆 **LeetCode 365 Days Badge 2024** – Top 4.2% of global coders
-  - ✅ Solved **300+ problems** on LeetCode | [@sampath4292](https://leetcode.com/sampath4292)
-- 🌱 Currently learning:
-  - React.js, Node.js, SQL , Mongodb
+### 👨‍💻 About Me
+- 🚀 **Graduate Trainee** at **Imaginnovate**, engineering scalable applications using **Java** and modern frontend frameworks.
+- 🎓 B.Tech in **Computer Science and Engineering** from **Vignan's Institute of Information Technology** (CGPA: 8.6).
+- 💡 Passionate about backend architecture, RESTful API design, and clean code principles.
+- 🏅 **Competitive Programming:**
+  - ✅ Solved **400+ problems** on coding platforms like LeetCode and CodeChef.
+- 🌱 Currently expanding my expertise in enterprise application architecture (JDBC, JPA, Hibernate) and Angular.
 - 📫 Reach me at: `sampathsriram4292@gmail.com`
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
-- 🔬 **Disease Prediction Website**  
-  A smart system that predicts potential diseases based on symptoms, blood group, and family history.
-
-- ⚡ **DSA Tracker**  
-  To code well here there are problems under their topics anyone can practice the problems
-
+- 🏥 **[MediTrack](https://github.com/sampath4292/MediTrack) – Full-Stack Healthcare Management Platform**
+  Built with Node.js and Express, featuring JWT-based authentication, RBAC, and OCR integration for processing medical prescriptions.
+- 📊 **[Feedback Management System](https://github.com/sampath4292/Feedback_Sender)**
+  A full-stack React and Node.js application that uses cron jobs and Nodemailer for automated reporting, designed for AI-based feedback analysis.
 
 ---
 
@@ -63,10 +60,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sampath4292&show_icons=true&theme=radical" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sampath4292&theme=radical" width="47%" />
 </p>
-
----
-
-### 🔍 Currently Exploring
-- Mernstack Internships (e.g., **HENNGE Global Internship**, etc.)
-- Virtual internships in AI,  Data Analytics , Data visualization
-
